@@ -1,4 +1,4 @@
-tool=neato
+tool=dot
 
 for a in *.dot;
 do
